@@ -1,0 +1,47 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "FullName": "Nguyễn Thị Nhựt",
+      "age": "21",
+      "class": "19IT3",
+      "TotalScore":"9.0",
+      "sex":"Nu"
+    },
+    {
+      "id": 2,
+      "FullName": "Nguyễn Thị Bảo Nhi",
+      "age": "10",
+      "class": "19IT4",
+      "TotalScore":"10.0",
+      "sex":"Nu"
+    },
+    {
+      "id": 3,
+      "FullName": "Đô Thị Hà",
+      "age": "22",
+      "class": "19IT3",
+      "TotalScore":"7.0",
+      "sex":"Nu"
+    },
+    {
+      "id": 4,
+      "FullName": "Nguyễn Huy Hoàng",
+      "age": "21",
+      "class": "19IT5",
+      "TotalScore":"8.0",
+      "sex":"Nam"
+    },
+    {
+      "id": 5,
+      "FullName": "Đỗ Ngoc Nam",
+      "age": "23",
+      "class": "19IT6",
+      "TotalScore":"8.0",
+      "sex":"Nam"
+    }
+    
+   
+  ]
+  
+}
